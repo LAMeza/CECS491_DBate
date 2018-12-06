@@ -92,7 +92,7 @@ namespace UserManagement
             else
             {
                 claimDeleted = false;
-                //throw new Exception("Didn't meet any of the requirements");
+                //ggthrow new Exception("Didn't meet any of the requirements");
             }
 
             return claimDeleted;
