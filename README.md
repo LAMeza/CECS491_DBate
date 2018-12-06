@@ -5,12 +5,12 @@ This repository contains the files of our senior design project. Our features ar
 # Directory Hierarchy
 
 * Authorization	
-** This directory contains our implementations for authorization.
+- This directory contains our implementations for authorization.
 * CECS491_DBate	
 * UnitTest	
-** This directory contains all our unit testing for each of the features.
+- This directory contains all our unit testing for each of the features.
 * UserManagement
-** This directory contains our implementations for user management.
+-  This directory contains our implementations for user management.
 
 # License
 
